@@ -48,7 +48,7 @@ public class FilterStudentsByMarksTest {
     void tearDown() {
         System.setOut(originalOut);
 
-        File file = new File(testFilePath);
+         File file = new File(testFilePath);
         if (file.exists()) {
             file.delete();
         }
