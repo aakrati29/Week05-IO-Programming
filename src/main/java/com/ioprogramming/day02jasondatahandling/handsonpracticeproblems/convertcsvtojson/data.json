@@ -1,0 +1,16 @@
+[ {
+  "id" : "1",
+  "name" : "Aakrati",
+  "age" : "30",
+  "email" : "aakrati@example.com"
+}, {
+  "id" : "2",
+  "name" : "Aniket",
+  "age" : "25",
+  "email" : "aniket@example.com"
+}, {
+  "id" : "3",
+  "name" : "Akansha",
+  "age" : "28",
+  "email" : "akansha@example.com"
+} ]
