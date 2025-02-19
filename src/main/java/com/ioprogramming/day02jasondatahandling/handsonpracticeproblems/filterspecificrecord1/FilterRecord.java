@@ -12,7 +12,7 @@ public class FilterRecord {
         try {
             ObjectMapper objectMapper = new ObjectMapper();
 
-            JsonNode rootNode = objectMapper.readTree(new File("D:\\Capgemini\\Week05-IO-Programming\\src\\main\\java\\com\\ioprogramming\\day02jasondatahandling\\practiceproblems\\filterspecificrecord\\Data.json"));
+            JsonNode rootNode = objectMapper.readTree(new File("D:\\Capgemini\\Week05-IO-Programming\\src\\main\\java\\com\\ioprogramming\\day02jasondatahandling\\handsonpracticeproblems\\filterspecificrecord1\\Data.json"));
 
             List<JsonNode> filteredRecords = new ArrayList<>();
 
